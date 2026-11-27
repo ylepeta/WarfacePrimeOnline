@@ -1,1 +1,1 @@
-@prime_adminwf
+@wfprime_bot
